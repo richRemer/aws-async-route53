@@ -1,6 +1,6 @@
 {
   "name": "aws-async-route53",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "async wrapper for aws-sdk Route53 API",
   "main": "route53.js",
   "scripts": {
